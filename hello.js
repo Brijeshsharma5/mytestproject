@@ -1,1 +1,1 @@
-hello AudioWorkletNode
+console.log("Hello World");
